@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Ourinhos.
 - 💼 Procurando meu primeiro emprego na área dev.
-- 🌱 Aprendendo mais sobre IA.
+- 🌱 Aprendendo mais sobre UX/UI Design
 
 ## Minhas Skills
 
